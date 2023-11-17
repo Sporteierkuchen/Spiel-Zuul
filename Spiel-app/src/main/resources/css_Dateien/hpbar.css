@@ -1,0 +1,14 @@
+
+.progress-bar > .track {
+  -fx-text-box-border:black;
+  -fx-control-inner-background: #a0e2ea;
+
+}
+
+#darkgreen-bar { -fx-box-border: goldenrod; -fx-accent: #00d123;  }
+#lightgreen-bar { -fx-box-border: goldenrod; -fx-accent: #48ff00;  }
+#yellow-bar { -fx-box-border: goldenrod; -fx-accent: yellow;  }
+#orange-bar { -fx-box-border: goldenrod; -fx-accent: orange;  }
+#red-bar { -fx-box-border: goldenrod; -fx-accent: red;  }
+
+#schild-bar { -fx-box-border: goldenrod; -fx-accent: blue;  }
